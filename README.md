@@ -2,7 +2,7 @@
 
 <h1>Um pouco sobre mim...</h1>
 
-<p> Meu nome é Paulo Henrique, sou formado em ciências da computação, desde então tenho estudado sobre desenvolvimento Web, focando em aprender e me aperfeiçoar na programação. Procuro me atualizar diariamente com as tecnologias desenvolvidas. 💻
+<p> Meu nome é Paulo Henrique, sou formado em Bacharel no curso de ciências da computação, desde então tenho estudado sobre desenvolvimento Web, focando em aprender e me aperfeiçoar na programação. Procuro me atualizar diariamente com as tecnologias desenvolvidas. 💻
 </p>
 
 <hr>
